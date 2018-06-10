@@ -1,1 +1,1 @@
-Last Update: 2018-05-24T10:00:00Z - feat: Initial project setup for Morningstar-Genesis-Forge
+Last Update: 2018-06-10T14:30:00Z - feat: Setup basic React & TypeScript application structure
