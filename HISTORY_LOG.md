@@ -1,1 +1,1 @@
-Last Update: 2018-05-24T10:00:00Z - feat: Initial project setup for Morningstar-Genesis-Forge
+Last Update: 2018-07-08T16:00:00Z - feat(auth): Implement user registration form and API integration
