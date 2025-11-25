@@ -1,3 +1,30 @@
+THE LAST REPOSITORY:
+The 15-Year Journey of Ashraf Morningstar
+-----------------------------------------
+
+Name: Ashraf Siddiqui
+Usernames: Morningstar, AlfaZeus, RedEye, PixelMaster, ArtWizard, many more.
+Years Active: 2009–2025
+Languages Learned: 16+
+Fields: Programming, UI/UX, Graphic Design, Automation, AI Tools, Scripts
+
+Summary:
+Ashraf started his digital journey at age 7, creating his first private GitHub
+profile without knowing English or programming. Over 15 years he explored
+Java, Python, web development, bots, automation scripts, UI/UX design,
+graphics, and AI experiments.
+
+He built tools like AM Video Downloader, custom bots, design software prototypes,
+Chrome extensions, UI tools, and dozens of personal and freelance projects. He
+faced crashes, health issues, financial struggles, burnout, account deletions,
+and personal challenges—yet he kept creating, learning, and helping others.
+
+In 2025, Ashraf decided to make public the first private GitHub account he
+created as a child, turning it into his final digital archive.
+
+Final Message:
+“Hello everyone, and goodbye. This was my last repository.” — Ashraf Siddiqui
+
 Date: 31-Dec-2011, Commit #: 122
  Today I create a Github account so lets see how far I can go and check this website will shutdown
  
