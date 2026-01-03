@@ -1,3 +1,14 @@
+# @license
+# Copyright © 2026 Ashraf Morningstar
+# https://github.com/AshrafMorningstar
+# 
+# Licensed under the MIT License.
+# This is a personal educational recreation.
+# Original concepts remain property of their respective creators.
+# 
+# @author Ashraf Morningstar
+# @see https://github.com/AshrafMorningstar
+
 """
 File Manager Utility
 Author: Ashraf Siddiqui

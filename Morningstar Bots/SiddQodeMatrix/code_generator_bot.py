@@ -1,4 +1,12 @@
 #!/usr/bin/env python3
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 """
 Multi-Language Code Generator Bot
 Automatically generates files in 100+ programming languages with 99+ lines of code each.
